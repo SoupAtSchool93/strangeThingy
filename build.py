@@ -1,5 +1,5 @@
 """
-build scripts and assets folder into one pyz
+build script files and assets folder into one pyz
 """
 import os
 import shutil
